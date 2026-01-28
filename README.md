@@ -13,12 +13,12 @@ El curso está organizado en 5 bloques temáticos que evolucionan desde los fund
 ```text
 UCV_ML_Course/
 ├── 1-Fundamentos/          # Mentalidad Data-Driven, Eficiencia vs. Eficacia, CRISP-DM
-├── 2-Prediccion/           # Regresión Lineal, Parsimonia y Overfitting
-├── 3-Clasificacion/        # Regresión Logística, Árboles (CART) y Random Forest
+├── 2-Predicción/           # Regresión Lineal, Parsimonia y Overfitting
+├── 3-Clasificación/        # Regresión Logística, Árboles (CART) y Random Forest
 ├── 4-Tendencias/           # Deep Learning, NLP y Agentes de IA
-├── 5-Cierre-Integracion/   # Ética, Storytelling y Proyecto Final
+├── 5-Cierre-Integración/   # Ética, Storytelling y Proyecto Final
 ├── datasets/               # Conjuntos de datos reales (Ventas, Crédito, Logística)
-└── notebooks/              # Jupyter Notebooks optimizados para Google Colab
+└── img/                    # Imágenes utilizadas
 ```
 
 ### 🚀  **Hoja de Ruta del Aprendizaje**
